@@ -1,0 +1,16 @@
+request:
+  method: GET
+  url: /api/v2/users
+  headers:
+    Content-Type: application/json
+response:
+  status: 200
+  body:
+    - fullName: "Teri Dactyl"
+      phoneNumber: "888 888 8888"
+      favoriteColor: "pink"
+    - fullName: "Liz Erd"
+      phoneNumber: "615 555 9999"
+      favoriteColor: "yellow"
+  headers:
+    Content-Type: application/json

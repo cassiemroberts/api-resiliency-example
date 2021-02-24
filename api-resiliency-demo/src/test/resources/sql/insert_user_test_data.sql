@@ -1,0 +1,2 @@
+INSERT INTO user (first_name, last_name, phone_number, favorite_color, id) VALUES ('Liz', 'Erd', '615 555 9999', 'yellow', 1)
+INSERT INTO user (first_name, last_name, phone_number, favorite_color, id) VALUES ('Teri', 'Dactyl', '888 888 8888', 'pink', 2)
